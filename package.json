@@ -24,7 +24,9 @@
     "reactstrap": "^8.6.0"
   },
   "description": "Exercise05 is full Shopping Cart with Stripe Billing",
-  
+  "engines": {
+    "node": "16.x"
+  },
   "main": "index.js",
   "author": "mjcillo22@gmail.com",
   "license": "MIT"
