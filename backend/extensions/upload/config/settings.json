@@ -1,0 +1,11 @@
+{
+    "provider": "aws-s3",
+    "providerOptions": {
+      "accessKeyId": "AKIA6PWNKBFK43CZV7VR",
+      "secretAccessKey": "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",
+      "region": "us-east-1",
+      "params": {
+        "Bucket": "coffeecardapp-images"
+      }
+    }
+  }
